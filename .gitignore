@@ -1,0 +1,26 @@
+# Build artifacts
+*.exe
+*.obj
+*.log
+*.pch
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.cache
+*.db
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Backup and temp
+*.bak
+*.tmp
